@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>OCVtest</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Fdetect/after.jpg</name>
+			<type>1</type>
+			<location>/home/name/projects/processing/opencv-processing-master/examples/ImageDiff/after.jpg</location>
+		</link>
+		<link>
+			<name>src/Fdetect/before.jpg</name>
+			<type>1</type>
+			<location>/home/name/projects/processing/opencv-processing-master/examples/ImageDiff/before.jpg</location>
+		</link>
+	</linkedResources>
+</projectDescription>
